@@ -2160,7 +2160,7 @@ display: none;
     font-size: 9px;
 }
 .smallevent_class {
-    font-size: 17px;
+    font-size: 16px;
     line-height: 24.07px;
 }
 .event_class {
@@ -2210,7 +2210,7 @@ display: none;
     margin-bottom: 5px;
 }
 .footer {
-    padding: 20px 30px;
+           padding: 20px 6px;
 }
 
 .email_input {
