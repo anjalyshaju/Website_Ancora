@@ -2035,6 +2035,8 @@ display: none;
 }
 .carousel-indicators {
     margin-bottom: 0rem;
+            display: none;
+
 }
 .guidelines{
     display: none;
