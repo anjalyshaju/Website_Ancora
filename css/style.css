@@ -2002,7 +2002,7 @@ display: none;
 }
 
 
-@media (min-width: 367px) and (max-width: 676px) {
+@media (min-width: 300px) and (max-width: 676px) {
     .hero_head {
         padding: 10px 0;
         font-size: 2.5rem;
