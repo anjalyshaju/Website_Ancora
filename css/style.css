@@ -2042,6 +2042,7 @@ display: none;
 .about_rightpage {
    
     padding-top: 50px;
+    justify-content: left;
 }
 .About_header {
     padding: 0 0px;
